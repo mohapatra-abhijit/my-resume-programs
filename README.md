@@ -1,4 +1,4 @@
 # my-resume-programs
-Author-Abhijit Mohapatra
+Author-Abhijit (Mohapatra Tiki)
 <br>
-This is my first reposiratory
+This is my first repository
